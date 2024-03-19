@@ -2,5 +2,11 @@
   "name": "learn-vue-router",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "history": "serve ./src/1.history-router"
+  },
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
 }
